@@ -2,23 +2,17 @@
 
 You can use the [editor on GitHub](https://github.com/samaujs/samaujs.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, **GitHub Pages** will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your _Markdown_ files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Area of Interests
 
 ```markdown
-Syntax highlighted code block
-
 - Artificial Intelligence, Machine Learning and Deep Learning
 - Data Science and Network Science
 - Cloud computing
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](https://www.linkedin.com/in/samaujs/) and ![Image](Photo_Sam.png)
 ```
+
+[LinkedIn](https://www.linkedin.com/in/samaujs/) and ![Sam](https://github.com/samaujs/samaujs.github.io/Photo_Sam.png)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
