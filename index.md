@@ -1,5 +1,5 @@
 ## Sam Au
-![Sam](https://github.com/samaujs/samaujs.github.io/blob/main/Photo_Sam.png)
+![Sam](/docs/assets/images/Photo_Sam.png)
 <br>
 [LinkedIn](https://www.linkedin.com/in/samaujs/)
 
