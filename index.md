@@ -1,4 +1,3 @@
-## Sam Au
 ![Sam](/docs/assets/images/Photo_Sam.png)
 <br>
 [LinkedIn](https://www.linkedin.com/in/samaujs/)
