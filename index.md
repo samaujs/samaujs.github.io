@@ -1,8 +1,7 @@
 ## Sam Au
-
-You can use the [editor on GitHub](https://github.com/samaujs/samaujs.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, **GitHub Pages** will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your _Markdown_ files.
+![Sam](https://github.com/samaujs/samaujs.github.io/blob/main/Photo_Sam.png)
+<br>
+[LinkedIn](https://www.linkedin.com/in/samaujs/)
 
 ### Area of Interests
 
@@ -12,12 +11,14 @@ Whenever you commit to this repository, **GitHub Pages** will run [Jekyll](https
 - Cloud computing
 ```
 
-[LinkedIn](https://www.linkedin.com/in/samaujs/) and ![Sam](https://github.com/samaujs/samaujs.github.io/Photo_Sam.png)
+``` Information only ```<br>
+You can use the [editor on GitHub](https://github.com/samaujs/samaujs.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, **GitHub Pages** will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your _Markdown_ files.
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
-
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samaujs/samaujs.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
