@@ -1,6 +1,6 @@
 <!--- Cannot resize with markdown ![]() --->
 <!--- ![Sam](/docs/assets/images/Photo_circle_Sam.png) --->
-<img src="https://github.com/samaujs/samaujs.github.io/blob/main/docs/assets/images/Photo_circle_Sam.png" width=20% height=20%>
+<img src="/docs/assets/images/Photo_circle_Sam.png" width=20% height=20%>
 <br>
 
 [LinkedIn](https://www.linkedin.com/in/samaujs/)
