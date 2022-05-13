@@ -1,7 +1,7 @@
-<!--- Cannot resize with markdown ![]() --->
+<!--- Cannot resize with markdown ![]() unless kramdown Markdown processor is added in _config.yml --->
 ![Sam](/docs/assets/images/Photo_circle_Sam.png){:height="20%" width="20%"}
 <!--- img src="/docs/assets/images/Photo_circle_Sam.png" width=20% height=20% --->
-<!--- img src="https://github.com/samaujs/samaujs.github.io/blob/d05302dae8d9aa9d5307f39b5df0c817e6525c4a/docs/assets/images/Photo_circle_Sam.png" width="200" height="200" -->
+<!--- or width="200" height="200" -->
 <br>
 
 [LinkedIn](https://www.linkedin.com/in/samaujs/)
