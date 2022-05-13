@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Sam's homepage
 description: Personal Portfolio
+url: "https://samaujs.github.io"
+markdown: kramdown
