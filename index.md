@@ -1,7 +1,7 @@
 <!--- Cannot resize with markdown ![]() --->
 <!--- ![Sam](/docs/assets/images/Photo_circle_Sam.png) --->
 <!--- img src="/docs/assets/images/Photo_circle_Sam.png" width=20% height=20% --->
-<img src="https://github.com/samaujs/samaujs.github.io/blob/main/docs/assets/images/Photo_circle_Sam.png" data-canonical-src="https://github.com/samaujs/samaujs.github.io/blob/main/docs/assets/images/Photo_circle_Sam.png" width="200" height="200">
+<img src="https://github.com/samaujs/samaujs.github.io/blob/d05302dae8d9aa9d5307f39b5df0c817e6525c4a/docs/assets/images/Photo_circle_Sam.png" data-canonical-src="https://github.com/samaujs/samaujs.github.io/blob/d05302dae8d9aa9d5307f39b5df0c817e6525c4a/docs/assets/images/Photo_circle_Sam.png" width="200" height="200">
 <br>
 
 [LinkedIn](https://www.linkedin.com/in/samaujs/)
